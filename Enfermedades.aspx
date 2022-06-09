@@ -8,19 +8,8 @@
     <title></title>
 </head>
 <body>
-    <p>
-        &nbsp;</p>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="Id Enfermedad: "></asp:Label>
-            <asp:TextBox ID="TextBox1" runat="server" Width="135px"></asp:TextBox>
-            <br />
-            <br />
-            <asp:Label ID="Label2" runat="server" Text="Nombre de la enfermedad: "></asp:Label>
-            <asp:TextBox ID="TextBox2" runat="server" Width="135px"></asp:TextBox>
-            <br />
-            <br />
-            <br />
         </div>
     </form>
 </body>
